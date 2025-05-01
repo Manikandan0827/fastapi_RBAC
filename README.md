@@ -67,7 +67,7 @@ This project is a RESTful API built using FastAPI that supports:
     Watch the setup and usage demo here:
 
     Demo Video Link
-    (Replace with your actual YouTube or Google Drive link)
+    ((https://drive.google.com/file/d/1eO8nlDodRgbyKR9DlxfOQ31GKCoAeKlN/view?usp=sharing))
 
 9. Dependencies
     Install with:
